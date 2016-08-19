@@ -1,19 +1,4 @@
-name: dle
-favicon: null
-layout_spectrum: 0.6423676279373467
 typography_spectrum: 0.09876930993050337
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#9D2D3C'
@@ -25,4 +10,20 @@ color:
   lightness: 0.6043711572419852
   saturation: 0.9933002449106425
   rhythmicContrast: 0.11524711968377233
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6423676279373467
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: dle
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: DLE Digital
 purpose: []
